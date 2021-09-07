@@ -25,4 +25,49 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 
+Answer 5
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	answers.md
+
+
+Answer 6
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+
+
+Answer 7
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+Answer 8
+Date:   Tue Sep 7 00:14:39 2021 -0400
+
+    Initial commit
+
+
 
