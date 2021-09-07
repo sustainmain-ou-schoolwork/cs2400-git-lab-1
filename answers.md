@@ -70,4 +70,24 @@ Date:   Tue Sep 7 00:14:39 2021 -0400
     Initial commit
 
 
+Answer 9
+On branch main
+Your branch is up to date with 'origin/main'.
 
+nothing to commit, working tree clean
+
+
+Answer 10
+Remote changes to README.md were not reflected locally.
+
+
+Answer 11
+The push was rejected because the remote repo has changes that I do not have locally.
+
+
+Answer 12
+The remote changes are reflected locally.
+
+
+Answer 13
+.  ..  git-lab  git-lab-2
